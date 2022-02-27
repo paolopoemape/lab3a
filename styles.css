@@ -18,6 +18,10 @@ textarea {
     height: 100px;
 }
 
+.footer{
+  clear: both;
+  margin-top: 100px;
+}
 
 .site-footer{
   background-color: #DDE0E3;
@@ -25,8 +29,9 @@ textarea {
   position: fixed;
   left:0px;
   bottom:0px;
-  height:100px;
+  height:50px;
   width:100%;
+  margin-top: auto;
   text-align: center;
   clear: both;
 }
